@@ -1,6 +1,6 @@
-<h1>{Personal  Expense  Tracker}</h1>
+<h1>Personal  Expense  Tracker</h1>
 
-<h2>{Description:}</h2>
+<h2>Description:</h2>
 The Personal Expense Tracker is a practical and user-friendly Python-based project 
 designed to help individuals manage their monthly budgets effectively. This tracker offers an 
 interactive menu system that guides users through tasks like adding expenses, setting budgets, and 
