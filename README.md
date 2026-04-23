@@ -69,6 +69,49 @@ Expense Data Saves Back to CSV
 - Load saved expenses when the program starts.
 - Basic error handling for missing CSV files.
 
+## Example Program Run
+
+```text
+Menu:
+1. Add Expense
+2. View Expenses
+3. Set Budget
+4. Track Budget
+5. Save Expenses
+6. Exit
+
+Choose an option from the menu: 1
+Enter the date (YYYY-MM-DD): 2026-04-23
+Enter the category (e.g., Food, Travel): Food
+Enter the amount spent: 18.75
+Enter a brief description: Lunch
+
+Expense added successfully!
+
+Menu:
+1. Add Expense
+2. View Expenses
+3. Set Budget
+4. Track Budget
+5. Save Expenses
+6. Exit
+
+Choose an option from the menu: 2
+
+Current Expenses:
+      date category  amount description
+2026-04-23     Food   18.75       Lunch
+
+Choose an option from the menu: 3
+Enter your monthly budget: 500
+Monthly budget set to $500.00
+
+Choose an option from the menu: 4
+Total spent so far: $18.75
+You have $481.25 left for the month.
+
+```
+
 ## Step-by-Step Walkthrough
 
 ### 1. Project Files
